@@ -1,0 +1,23 @@
+.formHolder {
+    height: 100vh;
+    width: 100%;
+    background: #008b65;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+input {
+    height: 28px;
+    padding: 8px;
+    width: 26%;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.headingTitle {
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    color: darkblue;
+}

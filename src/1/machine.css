@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.headingStyle {
+    margin-top: 30px;
+    text-align: center;
+    font-weight: 300;
+}
+
+.machineWrap {
+    text-align: center;
+    background: #158b00;
+    padding: 30px;
+    margin: 30px;
+}
+
+.machineWrap h1 {
+    margin: 20px;
+    background: #dadada;
+    padding: 10px;
+}
+.match {
+    background: #22cc04 !important;
+}
+.not-match {
+    background: #e47575 !important;
+}
