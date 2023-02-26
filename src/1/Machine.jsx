@@ -39,8 +39,8 @@ const Machine = () => {
         Welcome to <span style={{ fontWeight: 700 }}>Slot Machine</span>
       </h1>
       <div className="machineWrap">
-        <SlotMachine x="1" y="2" z="3" />
-        <SlotMachine x="3" y="3" z="3" />
+        <SlotMachine x="2" y="3" z="3" />
+        <SlotMachine x="4" y="4" z="4" />
       </div>
     </>
   );

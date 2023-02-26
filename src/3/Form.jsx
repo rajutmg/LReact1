@@ -13,10 +13,10 @@ const Form = () => {
         <h1 className="headingTitle">React Form</h1>
         {/* <Form1 /> */}
         {/* <Form2 / */}
-        {/* <Form3 /> */}
+        <Form3 />
         {/* <Form4 /> */}
         {/* <Rest_Spread /> */}
-        <FormFinal />
+        {/* <FormFinal /> */}
       </div>
     </>
   );
